@@ -30,7 +30,6 @@ COLS_CAT = [
     "nivel_educativo",
     "es_empleador",
     "ayuda_familiar_no_remunerado",
-    "tiene_trabajadores_pagados",
     "registro_sunat",
     "lleva_libros_contables",
     "tiene_ocupacion_secundaria",
