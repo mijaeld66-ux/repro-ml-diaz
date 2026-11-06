@@ -167,7 +167,7 @@ Las versiones de las librerías están registradas en `requirements.txt`.
 Clonar el repositorio:
 
 ```powershell
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/mijaeld66-ux/repro-ml-diaz.git
 cd repro-ml
 ```
 
