@@ -326,7 +326,6 @@ Variables categóricas:
 El preprocesamiento se ajusta dentro de cada fold utilizando únicamente sus datos de entrenamiento. Esto evita la fuga de información entre entrenamiento y validación.
 
 ### 7.4. Reproducibilidad de las ejecuciones
-
 Se realizaron tres ejecuciones consecutivas del modelo
 lineal con la semilla 42 y 16 variables predictoras.
 
@@ -339,7 +338,7 @@ Las tres produjeron resultados idénticos:
 - R² medio: 0.26370.
 - MD5 del dataset procesado:
   5caa212fdfd858bb9a4f218d43c94d8d.
-  
+    
 ### 7.5. Integridad de los datos
 
 Se calcularon las siguientes huellas MD5:
