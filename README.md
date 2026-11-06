@@ -454,22 +454,45 @@ Porque Python lee PYTHONHASHSEED al iniciar el intérprete para configurar la al
 
 ## 11. Prueba del extraño
 
-Estado actual: pendiente de realización.
 
-La prueba debe ser ejecutada por un compañero perteneciente a otro grupo, quien deberá clonar el repositorio, crear un entorno virtual nuevo, instalar las dependencias y ejecutar los comandos indicados en este README.
+## 11. Prueba del extraño
 
-Los resultados deben compararse con los reportados en este repositorio.
+La prueba del extraño fue realizada por un estudiante
+perteneciente a mi grupo del curso Machine Learning I.
 
-Una vez realizada la prueba, se registrarán los siguientes datos:
+El objetivo fue comprobar que el repositorio puede
+ejecutarse desde una computadora independiente,
+utilizando un entorno virtual nuevo.
 
-- Compañero evaluador: por registrar.
-- Grupo: por registrar.
-- Fecha de ejecución: por registrar.
-- Resultado: por registrar.
-- Issue de GitHub: por crear.
-- Observaciones: por registrar.
+### Datos de la prueba
 
-No se considera completada esta prueba hasta que exista evidencia de la ejecución y el Issue correspondiente.
+- Compañero evaluador: Luis Emilio Simonetti Ruiz
+- Grupo: Grupo 2
+- Fecha: 06/11/2026
+- Sistema operativo: Windons 11
+- Versión de Python: python 3.13.3.
+
+### Procedimiento realizado
+
+1. Clonación del repositorio público de GitHub.
+2. Creación de un entorno virtual independiente.
+3. Instalación de las dependencias mediante requirements.txt.
+4. Ejecución de prepare_data.py.
+5. Ejecución del modelo de regresión lineal con semilla 42.
+6. Ejecución de run_seeds.py para obtener los diez experimentos.
+
+### Resultados
+
+Si puede clonar su repositorio.
+Si instale correctamente las dependencias.
+Si pude ejecutar la preparación de datos.
+Las tres ejecuciones de regresión lineal fueron idénticas.
+Si obtuve los diez experimentos.
+Sus resultados coincidieron con los míos.
+
+### Evidencia
+
+Issue de GitHub: (https://github.com/mijaeld66-ux/repro-ml-diaz/issues/1)
 
 ## 12. Declaración de uso de inteligencia artificial
 
